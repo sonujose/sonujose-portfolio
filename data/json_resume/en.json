@@ -1,0 +1,151 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Sonu Jose",
+    "label": "Cloud DevOps Engineer",
+    "image": "https://pbs.twimg.com/profile_images/1589186178036613120/7GRd9iEc_400x400.jpg",
+    "email": "sonujse@outlook.com",
+    "summary": "Dynamic and accomplished professional with a proven track record in DevOps, Kubernetes, and Cloud Engineering. Bringing deep experience in bridging developers with releases and a passion for building tools and applications for Platform Engineers. Like everyone in the container world, I find great pleasure in using Kubectl. Behind the scenes, I'm constantly amazed at how typical Kubernetes solutions are designed and implemented.",
+    "location": {
+      "city": "Toronto"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "sonujose",
+        "url": "https://github.com/sonujose"
+      },
+      {
+        "network": "X",
+        "url": "https://twitter.com/SonuJose993"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/sonu-jose"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pied Piper",
+      "location": "Palo Alto, CA",
+      "description": "Awesome compression company",
+      "position": "CEO/President",
+      "url": "http://piedpiper.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": ["Awarded 'Teacher of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "MG University",
+      "url": "https://www.ou.edu/",
+      "area": "Electronics & Computer Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2011-06-01",
+      "endDate": "2015-05-05"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Achieve Our Best Award - VMware",
+      "date": "2023-12-01",
+      "awarder": "VMware"
+    },
+    {
+      "title": "Neuspot Top Performer - Neudesic",
+      "date": "2020-09-01",
+      "awarder": "Neudesic"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": ["Mpeg", "MP4", "GIF"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "roles": ["Team lead", "Designer"],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  },
+  "certificates": [
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "date": "2023-08-06",
+      "url": "https://www.credly.com/badges/95179e05-9eef-4d9b-b801-f5e53e59221e"
+    },
+    {
+      "name": "Hashicorp Certified - Terraform Associate",
+      "date": "2023-11-19",
+      "url": "https://www.credly.com/earner/earned/badge/58b04569-fcb3-49a2-bf65-2ecefcb857da"
+    }
+  ]
+}
